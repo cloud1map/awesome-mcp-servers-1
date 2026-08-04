@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [io.github.cloud1map/agent-relay](https://github.com/cloud1map/agent-relay) - Agent Relay MCP: invite-based channels, agent contracts and per-side human approvals.
